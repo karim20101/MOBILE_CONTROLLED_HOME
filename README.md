@@ -19,3 +19,5 @@
 # With the help of Datasheet, I got my hands on:
  - Ports & DIO
  - UART
+# Project Video
+- Link:https://drive.google.com/drive/folders/15MZqrdJqQnicXI52-to0T_z4tD1bCDli?usp=sharing
